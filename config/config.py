@@ -17,8 +17,8 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", "3898418"))
-API_HASH = getenv("API_HASH", "5a82313211da04d63297bd4de436228c")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH", "")
 
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
@@ -28,7 +28,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
-    getenv("DURATION_LIMIT", "60")
+    getenv("DURATION_LIMIT", "400")
 )  # Remember to give value in Minutes
 
 # Duration Limit for downloading Songs in MP3 or MP4 format from bot
@@ -49,7 +49,7 @@ OWNER_ID = list(
 # Bot Of Blaze
 
 TBOT = list(
-    map(int, getenv("TBOT", "5508331956").split())
+    map(int, getenv("TBOT", "2082934030").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
@@ -70,10 +70,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/TheDeadlyBots"
+    "SUPPORT_CHANNEL", "https://t.me/TheBrokenBots"
 )  # Example:- https://t.me/TheYukki
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/TheDeadlyBots"
+    "SUPPORT_GROUP", "https://t.me/TheBrokenSupport"
 )  # Example:- https://t.me/YukkiSupport
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
