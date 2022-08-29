@@ -49,7 +49,7 @@ OWNER_ID = list(
 # Bot Of Blaze
 
 TBOT = list(
-    map(int, getenv("TBOT", "2082934030").split())
+    map(int, getenv("TBOT", "").split())
 )  # Input type must be interger
 
 # Get it from http://dashboard.heroku.com/account
