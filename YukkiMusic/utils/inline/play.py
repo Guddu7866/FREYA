@@ -47,15 +47,15 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/TheBrokenBots"
             ),
             InlineKeyboardButton(
-                text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
+                text=_["S_B_3"], url="https://t.me/TheBrokenSupport"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="𝘿𝙊𝙉𝘼𝙏𝙀 𝙃𝙀𝙍𝙀", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
             ), 
         ],
     ]
@@ -72,15 +72,15 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/TheBrokenBots"
             ),
             InlineKeyboardButton(
-                text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
+                text=_["S_B_3"], url="https://t.me/TheBrokenSupport"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="𝘿𝙊𝙉𝘼𝙏𝙀 𝙃𝙀𝙍𝙀", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
             ),
         ],
     ]
@@ -104,15 +104,15 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/TheBrokenBots"
             ),
             InlineKeyboardButton(
-                text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
+                text=_["S_B_3"], url="https://t.me/TheBrokenSupport"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="𝘿𝙊𝙉𝘼𝙏𝙀 𝙃𝙀𝙍𝙀", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
             ),
         ],
     ]
@@ -129,15 +129,15 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/TheBrokenBots"
             ),
             InlineKeyboardButton(
-                text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
+                text=_["S_B_3"], url="https://t.me/TheBrokenSupport"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="𝘿𝙊𝙉𝘼𝙏𝙀 𝙃𝙀𝙍𝙀", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
             ),
         ],
     ]
@@ -162,15 +162,15 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],    
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/TheBrokenBots"
             ),
             InlineKeyboardButton(
-                text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
+                text=_["S_B_3"], url="https://t.me/TheBrokenSupport"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="𝘿𝙊𝙉𝘼𝙏𝙀 𝙃𝙀𝙍𝙀", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
             ),
         ],  
     ]   
@@ -191,15 +191,15 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         ],        
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/TheBrokenBots"
             ),
             InlineKeyboardButton(
-                text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
+                text=_["S_B_3"], url="https://t.me/TheBrokenSupport"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="𝘿𝙊𝙉𝘼𝙏𝙀 𝙃𝙀𝙍𝙀", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
             ),
         ],
     ]
@@ -219,15 +219,15 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], url="https://t.me/TheBotUpdates"
+                text=_["S_B_4"], url="https://t.me/TheBrokenBots"
             ),
             InlineKeyboardButton(
-                text=_["S_B_3"], url="https://t.me/TheDeadlyBots"
+                text=_["S_B_3"], url="https://t.me/TheBrokenSupport"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Donation", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
+                text="𝘿𝙊𝙉𝘼𝙏𝙀 𝙃𝙀𝙍𝙀", url="https://buy.stripe.com/4gw6q81C24lI05GdQQ"
             ),
         ],
     ]
